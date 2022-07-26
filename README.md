@@ -1,7 +1,7 @@
 # docker-annotsv
 Docker container with requirements to run [AnnotSV](https://lbgi.fr/AnnotSV/).
 
-forked from genome/docker-annotsv-cwl
+Forked from genome/docker-annotsv-cwl
 
 ## version 3.1
 
